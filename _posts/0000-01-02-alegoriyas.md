@@ -2,5 +2,9 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
-Use the left arrow to go back!
+Я тыщу планов отложу
+На завтра, ничего не поздно.
+Мой гроб еще шумит в лесу.
+Он - дерево,
+Он нянчит гнезда.
+**Франтишек Грубин**
